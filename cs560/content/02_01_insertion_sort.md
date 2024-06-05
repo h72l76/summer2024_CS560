@@ -24,3 +24,5 @@ In other words, a loop invariant is a statement that holds for three things: ini
 ## LeetCode
 
 [Question 147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)
+
+
