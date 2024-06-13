@@ -5,12 +5,12 @@
 Takeaway:
 
 - understand the insertion sort algorithm and its implementation.
-- use insertion sort as an example, understand the loop invariant. Also practice loop invariant for bubble sort and (optional) selection sort.
+- use insertion sort as an example, understand the **loop invariant**. Also practice loop invariant for bubble sort and (optional) selection sort.
 
 ## Insertion Sort Practice Questions
 
 1. implement the insertion sort algorithm in a programming language of your choice.
-1. describe insertion sort algorithm in your own wordds, and comment each step.
+1. describe insertion sort algorithm in your own words, and comment each step.
 1. why insertion sort "ignores" the first element?
 1. describe the two loop indices in insertion sort.
 1. What is the loop invariant for insertion sort?
@@ -24,5 +24,3 @@ In other words, a loop invariant is a statement that holds for three things: ini
 ## LeetCode
 
 [Question 147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)
-
-
